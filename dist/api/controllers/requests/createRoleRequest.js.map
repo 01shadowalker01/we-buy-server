@@ -1,0 +1,1 @@
+{"version":3,"file":"createRoleRequest.js","sourceRoot":"","sources":["../../../../../src/api/controllers/requests/createRoleRequest.ts"],"names":[],"mappings":";AAAA;;;;;;;;GAQG;;;AAEH,4BAA0B;AAC1B,qDAA2C;AAE3C,MAAa,UAAU;CAWtB;AANG;IAHC,4BAAU,CAAC;QACR,OAAO,EAAE,kBAAkB;KAC9B,CAAC;;wCACkB;AAKpB;IAHC,4BAAU,CAAC;QACR,OAAO,EAAE,oBAAoB;KAChC,CAAC;;0CACoB;AAV1B,gCAWC"}

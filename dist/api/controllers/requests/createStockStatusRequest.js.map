@@ -1,0 +1,1 @@
+{"version":3,"file":"createStockStatusRequest.js","sourceRoot":"","sources":["../../../../../src/api/controllers/requests/createStockStatusRequest.ts"],"names":[],"mappings":";AAAA;;;;;;;;GAQG;;;AAEH,4BAA0B;AAC1B,qDAA2C;AAE3C,MAAa,iBAAiB;CAW7B;AANG;IAHC,4BAAU,CAAC;QACR,OAAO,EAAE,kBAAkB;KAC9B,CAAC;;+CACkB;AAKpB;IAHC,4BAAU,CAAC;QACR,OAAO,EAAE,oBAAoB;KAChC,CAAC;;iDACoB;AAV1B,8CAWC"}

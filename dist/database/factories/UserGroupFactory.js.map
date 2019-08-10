@@ -1,0 +1,1 @@
+{"version":3,"file":"UserGroupFactory.js","sourceRoot":"","sources":["../../../../src/database/factories/UserGroupFactory.ts"],"names":[],"mappings":";AAAA;;;;;;;;GAQG;;AAGH,qDAAyC;AACzC,0DAAuD;AACvD,wBAAM,CAAC,qBAAS,EAAE,CAAC,KAAmB,EAAE,QAA4B,EAAE,EAAE;IACpE,MAAM,SAAS,GAAG,IAAI,qBAAS,EAAE,CAAC;IAClC,OAAO,SAAS,CAAC;AACrB,CAAC,CAAC,CAAC"}
