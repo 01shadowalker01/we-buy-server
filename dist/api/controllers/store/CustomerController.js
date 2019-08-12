@@ -93,7 +93,8 @@ let CustomerController = class CustomerController {
                 if (sendMailRes) {
                     const successResponse = {
                         status: 1,
-                        message: 'Thank you for registering with us. Kindly check your email inbox for further details. ',
+                    // message: 'Thank you for registering with us. Kindly check your email inbox for further details. ',
+                    message: 'از شما بابت ثبت نام متشکریم. لطفا برای اطلاعات بیش تر ایمیل خود را چک کنید ',
                         data: class_transformer_1.classToPlain(resultData),
                     };
                     return response.status(200).send(successResponse);
@@ -240,7 +241,8 @@ let CustomerController = class CustomerController {
             }
             const errorResponse = {
                 status: 0,
-                message: 'Invalid password',
+                // message: 'Invalid password',
+                message: 'رمز عبور نامعتبر',
             };
             return response.status(400).send(errorResponse);
         });
@@ -515,7 +517,8 @@ let CustomerController = class CustomerController {
                 if (sendMailRes) {
                     const successResponse = {
                         status: 1,
-                        message: 'Thank you for registering with us. Kindly check your email inbox for further details. ',
+                        // message: 'Thank you for registering with us. Kindly check your email inbox for further details. ',
+                        message: 'از شما بابت ثبت نام متشکریم. لطفا برای اطلاعات بیش تر ایمیل خود را چک کنید ',
                         data: {
                             token,
                             user: class_transformer_1.classToPlain(resultData),

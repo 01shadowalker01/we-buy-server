@@ -98,7 +98,8 @@ export class UserController {
       } else {
           const errorResponse: any = {
           status: 0,
-          message: 'Invalid password',
+          // message: 'Invalid password',
+          message: 'رمز عبور نامعتبر',
           };
           return response.status(400).send(errorResponse);
       }

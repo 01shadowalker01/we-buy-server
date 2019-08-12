@@ -98,7 +98,8 @@ let UserController = class UserController {
                 else {
                     const errorResponse = {
                         status: 0,
-                        message: 'Invalid password',
+                        // message: 'Invalid password',
+                        message: 'رمز عبور نامعتبر',
                     };
                     return response.status(400).send(errorResponse);
                 }

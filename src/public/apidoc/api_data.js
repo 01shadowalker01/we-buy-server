@@ -3140,8 +3140,8 @@ define({ "api": [
     "url": "",
     "version": "0.0.0",
     "filename": "src/public/apidoc/main.js",
-    "group": "E__Development_codes_Projects_online_shop_api_src_public_apidoc_main_js",
-    "groupTitle": "E__Development_codes_Projects_online_shop_api_src_public_apidoc_main_js",
+    "group": "E__Development_codes_Projects_we_buy_we_buy_server_src_public_apidoc_main_js",
+    "groupTitle": "E__Development_codes_Projects_we_buy_we_buy_server_src_public_apidoc_main_js",
     "name": ""
   },
   {
@@ -3168,8 +3168,8 @@ define({ "api": [
     "url": "",
     "version": "0.0.0",
     "filename": "src/public/main.js",
-    "group": "E__Development_codes_Projects_online_shop_api_src_public_main_js",
-    "groupTitle": "E__Development_codes_Projects_online_shop_api_src_public_main_js",
+    "group": "E__Development_codes_Projects_we_buy_we_buy_server_src_public_main_js",
+    "groupTitle": "E__Development_codes_Projects_we_buy_we_buy_server_src_public_main_js",
     "name": ""
   },
   {
