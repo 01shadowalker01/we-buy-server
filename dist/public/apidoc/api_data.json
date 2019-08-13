@@ -9305,7 +9305,7 @@
       "examples": [
         {
           "title": "Success",
-          "content": "HTTP/1.1 200 OK\n{\n     \"message\": \"Thank you product added to the wishlist successfully.\",\n     \"status\": \"1\"\n}",
+          "content": "HTTP/1.1 200 OK\n{\n     \"message\": \"کالا به لیست علاقه مندی ها افزوده شد\",\n     \"status\": \"1\"\n}",
           "type": "json"
         }
       ]

@@ -231,7 +231,8 @@ let CustomerController = class CustomerController {
                 yield this.customerService.create(customer);
                 const successResponse = {
                     status: 1,
-                    message: 'Loggedin successfully.',
+                    // message: 'Loggedin successfully.',
+                    message: 'ورود با موفقیت انجام شد!',
                     data: {
                         token,
                         user: class_transformer_1.classToPlain(resultData),
@@ -535,7 +536,8 @@ let CustomerController = class CustomerController {
                 });
                 const successResponse = {
                     status: 1,
-                    message: 'Loggedin successfully.',
+                    // message: 'Loggedin successfully.',
+                    message: 'ورود با موفقیت انجام شد!',
                     data: {
                         token,
                         user: class_transformer_1.classToPlain(resultData),

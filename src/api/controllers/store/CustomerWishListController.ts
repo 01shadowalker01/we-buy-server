@@ -76,7 +76,8 @@ export class CustomerController {
         });
         const successResponse: any = {
             status: 1,
-            message: 'Thank you product added to the wishlist successfully.',
+            // message: 'Thank you product added to the wishlist successfully.',
+            message: 'کالا به لیست علاقه مندی ها افزوده شد',
             data: {
                 wishlistProductId: Id,
                 product: Product,

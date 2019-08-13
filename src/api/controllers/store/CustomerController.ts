@@ -228,7 +228,8 @@ export class CustomerController {
             await this.customerService.create(customer);
             const successResponse: any = {
                 status: 1,
-                message: 'Loggedin successfully.',
+                // message: 'Loggedin successfully.',
+                message: 'ورود با موفقیت انجام شد!',
                 data: {
                     token,
                     user: classToPlain(resultData),
@@ -538,7 +539,8 @@ export class CustomerController {
 
             const successResponse: any = {
                 status: 1,
-                message: 'Loggedin successfully.',
+                // message: 'Loggedin successfully.',
+                message: 'ورود با موفقیت انجام شد!',
                 data: {
                     token,
                     user: classToPlain(resultData),
