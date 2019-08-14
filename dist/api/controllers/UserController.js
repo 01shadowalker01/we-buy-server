@@ -87,7 +87,8 @@ let UserController = class UserController {
                     }
                     const successResponse = {
                         status: 1,
-                        message: 'Login successful',
+                        // message: 'Login successful',
+                        message: 'ورود با موفقیت انجام شد!',
                         data: {
                             token,
                             user: class_transformer_1.classToPlain(user),

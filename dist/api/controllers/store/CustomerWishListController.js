@@ -113,7 +113,8 @@ let CustomerController = class CustomerController {
             yield this.customerWishlistService.delete(wishlistId);
             const successResponse = {
                 status: 1,
-                message: 'Thank you, deleted the product from wishlist successfully.',
+                // message: 'Thank you, deleted the product from wishlist successfully.',
+                message: 'کالا از لیست علاقه مندی ها حذف شد',
             };
             return response.status(200).send(successResponse);
         });
