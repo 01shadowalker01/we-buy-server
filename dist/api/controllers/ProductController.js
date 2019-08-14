@@ -581,7 +581,8 @@ let ProductController = class ProductController {
             if (saveProduct) {
                 const successResponse = {
                     status: 1,
-                    message: 'Successfully updated Product',
+                    // message: 'Successfully updated Product',
+                    message: 'اطلاعات کالا با موفقیت ویرایش شد',
                 };
                 return response.status(200).send(successResponse);
             }

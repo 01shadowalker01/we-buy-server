@@ -383,7 +383,8 @@ let CustomerController = class CustomerController {
                 if (customerSave) {
                     const successResponse = {
                         status: 1,
-                        message: 'Customer Updated Successfully',
+                        // message: 'Customer Updated Successfully',
+                        message: 'اطلاعات مشتری با موفقیت ویرایش شد',
                         data: customerSave,
                     };
                     return response.status(200).send(successResponse);

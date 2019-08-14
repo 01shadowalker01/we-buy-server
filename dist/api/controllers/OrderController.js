@@ -421,7 +421,8 @@ let OrderController = class OrderController {
             if (orderSave) {
                 const successResponse = {
                     status: 1,
-                    message: 'Successfully updated Order Status',
+                    // message: 'Successfully updated Order Status',
+                    message: 'وضعیت سفارش با موفقیت تغییر کرد',
                     data: orderSave,
                 };
                 return response.status(200).send(successResponse);
