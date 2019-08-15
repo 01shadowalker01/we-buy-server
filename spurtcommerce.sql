@@ -990,8 +990,8 @@ CREATE TABLE `language` (
 INSERT INTO `language` (`language_id`, `name`, `code`, `image`, `image_path`, `locale`, `sort_order`, `is_active`, `created_date`, `modified_date`, `created_by`, `modified_by`) VALUES
 (54, 'Hindi', 'HIN', 'Img_1556347942580.png', 'language/', NULL, 0, 0, '2019-03-15 04:30:44', '2019-05-11 06:02:45', NULL, NULL),
 (57, 'English', 'ENG', 'Img_1557133081101.png', 'language/', NULL, 1, 1, '2019-05-06 03:58:01', '2019-05-15 18:40:53', NULL, NULL),
-(58, 'French', 'FR', 'Img_1557569207176.png', 'language/', NULL, 1, 1, '2019-05-06 06:57:05', '2019-05-10 04:11:21', NULL, NULL);
-(58, 'Persian', 'PR', 'Img_1557569207176.png', 'language/', NULL, 1, 1, '2019-05-06 06:57:05', '2019-05-10 04:11:21', NULL, NULL);
+(58, 'French', 'FR', 'Img_1557569207176.png', 'language/', NULL, 1, 1, '2019-05-06 06:57:05', '2019-05-10 04:11:21', NULL, NULL),
+(59, 'Persian', 'PR', 'Img_1557569207176.png', 'language/', NULL, 1, 1, '2019-05-06 06:57:05', '2019-05-10 04:11:21', NULL, NULL);
 
 -- --------------------------------------------------------
 
