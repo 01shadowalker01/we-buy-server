@@ -180,7 +180,7 @@ let CustomerOrderController = class CustomerOrderController {
             if (sendMailRes) {
                 const successResponse = {
                     status: 1,
-                    message: 'You successfully checked out the product and order details send to your mail',
+                    message: 'سفارش و مشخصات ارسال شما با موفقیت ثبت شد',
                     data: resultData,
                 };
                 return response.status(200).send(successResponse);
