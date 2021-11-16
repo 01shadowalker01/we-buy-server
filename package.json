@@ -30,7 +30,7 @@
   "dependencies": {
     "apidoc": "^0.17.7",
     "array-to-tree": "^3.3.0",
-    "aws-sdk": "^2.391.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
     "chalk": "^2.4.1",
